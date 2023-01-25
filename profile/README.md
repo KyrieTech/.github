@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Welcome! 
+----
+```
+Hello, Kyrie is an organization which speacalises in open-source software. Feel free to browse our repositories as we expand them! also if you're interested in perhaps working with us you could always contact us via the organization email. Thanks for stopping by!
+```
 <!--
 
 **Here are some ideas to get you started:**
